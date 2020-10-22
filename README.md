@@ -150,8 +150,7 @@ export default Readme;
 ---
 #### Technologies
 
-- Environment: WAMP (http://www.wampserver.com/en/)
-- PHP 7.4
+-
 
 [Back To The Top](#E_commerce_catalog_php)
 
